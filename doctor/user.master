@@ -1,0 +1,90 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Home.Master" AutoEventWireup="true" CodeBehind="user.master.cs" Inherits="doctor.user" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+    <main id="tg-main" class="tg-main tg-haslayout">
+			<div class="container">
+				<div class="row">
+					<div id="tg-content" class="tg-content tg-dashboard">
+						<div class="col-lg-3 col-md-4 col-sm-4 col-xs-12 pull-left">
+							<div class="tg-widgetdashboard">
+								<div class="tg-widgetprofile">
+									<figure class="tg-directpostimg">
+										<a href="#"><img src="images/thumbnails/img-20.jpg" alt="image description"></a>
+									<!--	<figcaption>
+											<a class="tg-usericon tg-iconfeatured" href="#">
+												<em class="tg-usericonholder">
+													<i class="fa fa-bolt"></i>
+													<span>featured</span>
+												</em>
+											</a>
+											<a class="tg-usericon tg-iconvarified" href="#">
+												<em class="tg-usericonholder">
+													<i class="fa fa-shield"></i>
+													<span>varified</span>
+												</em>
+											</a>
+										</figcaption> -->
+									</figure>
+									<div class="tg-directposthead">
+										<h3><a href="#">Dr. Steve Northrop</a></h3>
+										<div class="tg-subjects">MDS - Paedodontics &amp; Preventive Dentistry</div>
+									<!--	<ul class="tg-metadata">
+											<li><span class="tg-stars"><span></span></span></li>
+											 <li><a href="#"><i class="fa fa-thumbs-o-up"></i> 99% (1009 votes)</a></li> 
+										</ul> -->
+									</div>
+									<a class="tg-btn tg-btn-lg" href="#">Edit Profile</a>
+								</div>
+								<nav id="tg-dashboardnav" class="tg-dashboardnav">
+									<ul>
+										<li class="tg-active">
+											<a href="dashboard.html">
+												<i class="fa fa-line-chart"></i>
+												<span>Dashboard</span>
+											</a>
+										</li>
+										<li class="tg-warningmessage">
+											<a href="dashboard-profilesetting.html">
+												<i class="fa fa-user"></i>
+												<span>Profile Settings</span>
+											</a>
+										</li>
+										<li class="tg-successmessage">
+											<a href="dashboard-appointments.html">
+												<i class="fa fa-calendar-check-o"></i>
+												<span>Appointments</span>
+											</a>
+										</li>
+										<li>
+											<a href="dashboard-upgradepackage.html">
+												<i class="fa fa-arrow-up"></i>
+												<span>Update Package</span>
+											</a>
+										</li>
+										<li>
+											<a href="#">
+												<i class="fa fa-sign-out"></i>
+												<span>Logout</span>
+											</a>
+										</li>
+									</ul>
+								</nav>
+							</div>
+							<div class="tg-widgetdashboard">
+								<div class="tg-dashboardnotification tg-pkgexpirey"><span>13 days</span>silver package Expire in</div>
+							</div>
+							<div class="tg-widgetdashboard">
+								<div class="tg-banneradd">
+									<figure><a href="#"><img src="images/placeholder/img-01.jpg" alt="image description"></a></figure>
+								</div>
+							</div>
+						</div>
+
+
+                        <asp:ContentPlaceHolder ID="nastedBoay" runat="server"></asp:ContentPlaceHolder>
+					</div>
+				</div>
+			</div>
+		</main>
+</asp:Content>

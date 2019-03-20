@@ -1,0 +1,60 @@
+﻿body {
+}
+.fontsmall
+{
+    font-size:10px;
+    color:#f66b6b;
+}
+.fontsmall:hover
+{
+    color:#c34f2f;
+    cursor:default;
+}
+.Schedul_CSS
+{
+    color:#808080;
+    font-weight:bold;
+}
+.centerAll
+{
+    margin-left:40%;
+    text-align:center;
+}
+.colorsup{
+    color:#d34b25;
+}
+.clearPay{
+    color:#abe082;
+}
+.GreenColor{
+    color:#abe082;
+}
+.broder
+{
+    border:0px;
+}
+.sclecttg{
+width: 20%;
+    float: left;
+    border-right: 1px solid #ddd;
+        margin: 0px;
+    padding: 0px;
+}
+
+.formcontrols{
+         color: #484848;
+    outline: none;
+    
+   
+    background: #fff;
+    font-size: 13px;
+    box-shadow: none;
+    
+    border-radius: 3px;
+    display: inline-block;
+    vertical-align: middle;
+    border: 1px solid #fff;
+    text-transform: capitalize;
+  
+    box-sizing: border-box;
+}

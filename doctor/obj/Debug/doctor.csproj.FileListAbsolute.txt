@@ -1,0 +1,123 @@
+C:\Users\Khulna IT Village\Desktop\demo\doctor\doctor\bin\doctor.dll
+C:\Users\Khulna IT Village\Desktop\demo\doctor\doctor\bin\doctor.pdb
+C:\Users\Khulna IT Village\Desktop\demo\doctor\doctor\bin\Antlr3.Runtime.dll
+C:\Users\Khulna IT Village\Desktop\demo\doctor\doctor\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Khulna IT Village\Desktop\demo\doctor\doctor\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Khulna IT Village\Desktop\demo\doctor\doctor\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Khulna IT Village\Desktop\demo\doctor\doctor\bin\DotNetOpenAuth.Core.dll
+C:\Users\Khulna IT Village\Desktop\demo\doctor\doctor\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Khulna IT Village\Desktop\demo\doctor\doctor\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Khulna IT Village\Desktop\demo\doctor\doctor\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Khulna IT Village\Desktop\demo\doctor\doctor\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Khulna IT Village\Desktop\demo\doctor\doctor\bin\EntityFramework.dll
+C:\Users\Khulna IT Village\Desktop\demo\doctor\doctor\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Khulna IT Village\Desktop\demo\doctor\doctor\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Khulna IT Village\Desktop\demo\doctor\doctor\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Khulna IT Village\Desktop\demo\doctor\doctor\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Khulna IT Village\Desktop\demo\doctor\doctor\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Khulna IT Village\Desktop\demo\doctor\doctor\bin\System.Web.Optimization.dll
+C:\Users\Khulna IT Village\Desktop\demo\doctor\doctor\bin\System.Web.Providers.dll
+C:\Users\Khulna IT Village\Desktop\demo\doctor\doctor\bin\WebGrease.dll
+C:\Users\Khulna IT Village\Desktop\demo\doctor\doctor\bin\EntityFramework.xml
+C:\Users\Khulna IT Village\Desktop\demo\doctor\doctor\bin\DotNetOpenAuth.Core.xml
+C:\Users\Khulna IT Village\Desktop\demo\doctor\doctor\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Khulna IT Village\Desktop\demo\doctor\doctor\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Khulna IT Village\Desktop\demo\doctor\doctor\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Khulna IT Village\Desktop\demo\doctor\doctor\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Khulna IT Village\Desktop\demo\doctor\doctor\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Khulna IT Village\Desktop\demo\doctor\doctor\obj\Debug\doctor.csprojResolveAssemblyReference.cache
+C:\Users\Khulna IT Village\Desktop\demo\doctor\doctor\obj\Debug\doctor.dll
+C:\Users\Khulna IT Village\Desktop\demo\doctor\doctor\obj\Debug\doctor.pdb
+C:\Users\piash\Desktop\demo\doctor\doctor\bin\doctor.dll.config
+C:\Users\piash\Desktop\demo\doctor\doctor\bin\doctor.dll
+C:\Users\piash\Desktop\demo\doctor\doctor\bin\doctor.pdb
+C:\Users\piash\Desktop\demo\doctor\doctor\bin\Antlr3.Runtime.dll
+C:\Users\piash\Desktop\demo\doctor\doctor\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\piash\Desktop\demo\doctor\doctor\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\piash\Desktop\demo\doctor\doctor\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\piash\Desktop\demo\doctor\doctor\bin\DotNetOpenAuth.Core.dll
+C:\Users\piash\Desktop\demo\doctor\doctor\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\piash\Desktop\demo\doctor\doctor\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\piash\Desktop\demo\doctor\doctor\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\piash\Desktop\demo\doctor\doctor\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\piash\Desktop\demo\doctor\doctor\bin\EntityFramework.dll
+C:\Users\piash\Desktop\demo\doctor\doctor\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\piash\Desktop\demo\doctor\doctor\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\piash\Desktop\demo\doctor\doctor\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\piash\Desktop\demo\doctor\doctor\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\piash\Desktop\demo\doctor\doctor\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\piash\Desktop\demo\doctor\doctor\bin\System.Web.Optimization.dll
+C:\Users\piash\Desktop\demo\doctor\doctor\bin\System.Web.Providers.dll
+C:\Users\piash\Desktop\demo\doctor\doctor\bin\WebGrease.dll
+C:\Users\piash\Desktop\demo\doctor\doctor\bin\EntityFramework.xml
+C:\Users\piash\Desktop\demo\doctor\doctor\bin\DotNetOpenAuth.Core.xml
+C:\Users\piash\Desktop\demo\doctor\doctor\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\piash\Desktop\demo\doctor\doctor\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\piash\Desktop\demo\doctor\doctor\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\piash\Desktop\demo\doctor\doctor\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\piash\Desktop\demo\doctor\doctor\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\piash\Desktop\demo\doctor\doctor\obj\Debug\doctor.csprojAssemblyReference.cache
+C:\Users\piash\Desktop\demo\doctor\doctor\obj\Debug\doctor.csproj.CoreCompileInputs.cache
+C:\Users\piash\Desktop\demo\doctor\doctor\obj\Debug\doctor.csproj.CopyComplete
+C:\Users\piash\Desktop\demo\doctor\doctor\obj\Debug\doctor.dll
+C:\Users\piash\Desktop\demo\doctor\doctor\obj\Debug\doctor.pdb
+D:\demo\doctor\doctor\bin\doctor.dll
+D:\demo\doctor\doctor\bin\doctor.pdb
+D:\demo\doctor\doctor\bin\Antlr3.Runtime.dll
+D:\demo\doctor\doctor\bin\AspNet.ScriptManager.jQuery.dll
+D:\demo\doctor\doctor\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\demo\doctor\doctor\bin\DotNetOpenAuth.AspNet.dll
+D:\demo\doctor\doctor\bin\DotNetOpenAuth.Core.dll
+D:\demo\doctor\doctor\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\demo\doctor\doctor\bin\DotNetOpenAuth.OAuth.dll
+D:\demo\doctor\doctor\bin\DotNetOpenAuth.OpenId.dll
+D:\demo\doctor\doctor\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\demo\doctor\doctor\bin\EntityFramework.dll
+D:\demo\doctor\doctor\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\demo\doctor\doctor\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\demo\doctor\doctor\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\demo\doctor\doctor\bin\Microsoft.ScriptManager.WebForms.dll
+D:\demo\doctor\doctor\bin\Microsoft.Web.Infrastructure.dll
+D:\demo\doctor\doctor\bin\System.Web.Optimization.dll
+D:\demo\doctor\doctor\bin\System.Web.Providers.dll
+D:\demo\doctor\doctor\bin\WebGrease.dll
+D:\demo\doctor\doctor\bin\EntityFramework.xml
+D:\demo\doctor\doctor\bin\DotNetOpenAuth.Core.xml
+D:\demo\doctor\doctor\bin\DotNetOpenAuth.OAuth.xml
+D:\demo\doctor\doctor\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\demo\doctor\doctor\bin\DotNetOpenAuth.OpenId.xml
+D:\demo\doctor\doctor\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\demo\doctor\doctor\bin\DotNetOpenAuth.AspNet.xml
+D:\demo\doctor\doctor\obj\Debug\doctor.csprojResolveAssemblyReference.cache
+D:\demo\doctor\doctor\obj\Debug\doctor.dll
+D:\demo\doctor\doctor\obj\Debug\doctor.pdb
+C:\Users\Piash\Downloads\doctor\doctor\bin\doctor.dll
+C:\Users\Piash\Downloads\doctor\doctor\bin\doctor.pdb
+C:\Users\Piash\Downloads\doctor\doctor\bin\Antlr3.Runtime.dll
+C:\Users\Piash\Downloads\doctor\doctor\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Piash\Downloads\doctor\doctor\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Piash\Downloads\doctor\doctor\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Piash\Downloads\doctor\doctor\bin\DotNetOpenAuth.Core.dll
+C:\Users\Piash\Downloads\doctor\doctor\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Piash\Downloads\doctor\doctor\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Piash\Downloads\doctor\doctor\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Piash\Downloads\doctor\doctor\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Piash\Downloads\doctor\doctor\bin\EntityFramework.dll
+C:\Users\Piash\Downloads\doctor\doctor\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Piash\Downloads\doctor\doctor\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Piash\Downloads\doctor\doctor\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Piash\Downloads\doctor\doctor\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Piash\Downloads\doctor\doctor\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Piash\Downloads\doctor\doctor\bin\System.Web.Optimization.dll
+C:\Users\Piash\Downloads\doctor\doctor\bin\System.Web.Providers.dll
+C:\Users\Piash\Downloads\doctor\doctor\bin\WebGrease.dll
+C:\Users\Piash\Downloads\doctor\doctor\bin\EntityFramework.xml
+C:\Users\Piash\Downloads\doctor\doctor\bin\DotNetOpenAuth.Core.xml
+C:\Users\Piash\Downloads\doctor\doctor\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Piash\Downloads\doctor\doctor\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Piash\Downloads\doctor\doctor\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Piash\Downloads\doctor\doctor\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Piash\Downloads\doctor\doctor\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Piash\Downloads\doctor\doctor\obj\Debug\doctor.csprojResolveAssemblyReference.cache
+C:\Users\Piash\Downloads\doctor\doctor\obj\Debug\doctor.dll
+C:\Users\Piash\Downloads\doctor\doctor\obj\Debug\doctor.pdb
